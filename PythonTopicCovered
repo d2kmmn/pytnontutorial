@@ -1,0 +1,5 @@
+Print Function [ \n, end, sep ]
+Comments [Single line, Multi line, Shebang]
+Variable
+Bult-in data type [ Str, Int, Flot, Complex, list, tuple, Dict, Set, Frozenset, Bool, Butes, Bytearry, Memoryview ]
+
